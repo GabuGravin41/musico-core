@@ -1,0 +1,5 @@
+{
+  "name": "Musico Co-pilot",
+  "description": "An AI-powered co-pilot to assist with music composition, writing, and editing. Brainstorm musical ideas, develop motifs, and generate lyrics with an agentic system of AI models.",
+  "requestFramePermissions": []
+}
